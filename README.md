@@ -22,3 +22,16 @@ approaches.
 
 5. Continuously assess the effectiveness of cancer classification systems and 
 adapt them to evolving scientific knowledge and clinical practice.
+
+Results -
+We compare the results and performance of different machine learning models 
+with neural networks. We analyze the accuracy and other relevant metrics to 
+determine the most effective model for predicting cancer. This comparison helps 
+us choose the model that provides the highest predictive accuracy and 
+reliability. 
+We can clearly see that the accuracy of Linear Discriminant Analysis Model is 
+the highest among the others. Hence, it is considered as the best performing 
+model. We can further analyze the LDA model by generating the classification 
+report and making the confusion matrix. It has been found out that out of 114 
+samples, there is only one sample which has been wrongly classified by the 
+LDA Model but rest 113 samples are correctly classified. 
