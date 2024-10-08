@@ -35,3 +35,5 @@ model. We can further analyze the LDA model by generating the classification
 report and making the confusion matrix. It has been found out that out of 114 
 samples, there is only one sample which has been wrongly classified by the 
 LDA Model but rest 113 samples are correctly classified. 
+
+Link for colab - https://colab.research.google.com/drive/14f9IJEdWyqNEZ2uSwUicNW3gl21El1Bc
